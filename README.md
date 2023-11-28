@@ -13,15 +13,15 @@
 ## 📈 I'm currently learning
 
 - Next.js and Angular
-- TypeScript
-- ![](https://slackmojis.com/emojis/4296-mongodb/download) MongoDB
+- ![](https://api.iconify.design/logos:typescript-icon.svg) TypeScript
+- ![](https://api.iconify.design/logos:mongodb-icon.svg) MongoDB
 
 ## 🧰 Skills 
-![](https://img.shields.io/badge/Code-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26) ![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/Code-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=0769AD) ![](https://img.shields.io/badge/Code-React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=ffffff&style=for-the-badge) ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=30332A&style=for-the-badge) ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=ffffff) ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=ffffff&style=for-the-badge)
 
-![](https://img.shields.io/badge/Style-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6) ![](https://img.shields.io/badge/Style-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=563D7C) ![](https://img.shields.io/badge/Style-Chakra-4FD1C5?style=for-the-badge&logo=chakra-ui&logoColor=4FD1C5)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6) ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=563D7C) ![](https://img.shields.io/badge/Chakra-4FD1C5?style=for-the-badge&logo=chakra-ui&logoColor=4FD1C5)
 
-![](https://img.shields.io/badge/Tool-React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=CA4245) ![](https://img.shields.io/badge/Tool-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=00C7B7) ![](https://img.shields.io/badge/Tool-git-F05033?style=for-the-badge&logo=git&logoColor=F05033) ![Figma](https://img.shields.io/badge/Tool-figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=CA4245) ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=00C7B7) ![](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=F05033) ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 ## Where to find me
 <p align="left"> <a href="https://www.linkedin.com/in/santiago-gomez-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>

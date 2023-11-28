@@ -4,17 +4,20 @@
 
 ## 🔭 I'm currently working on
 
+- 📅 StaffRota
+
+## Latest Projects
+
 - 🧺 WashStacks (clone of [Laundry Heap](https://www.laundryheap.co.uk/))
-- More projects coming soon...
 
 ## 📈 I'm currently learning
 
 - Next.js and Angular
 - TypeScript
-- Tailwind
+- ![](https://slackmojis.com/emojis/4296-mongodb/download) MongoDB
 
 ## 🧰 Skills 
-![]( 	https://img.shields.io/badge/Code-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26) ![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/Code-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=0769AD) ![](https://img.shields.io/badge/Code-React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Code-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26) ![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/Code-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=0769AD) ![](https://img.shields.io/badge/Code-React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![](https://img.shields.io/badge/Style-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6) ![](https://img.shields.io/badge/Style-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=563D7C) ![](https://img.shields.io/badge/Style-Chakra-4FD1C5?style=for-the-badge&logo=chakra-ui&logoColor=4FD1C5)
 
